@@ -39,16 +39,13 @@ namespace NadekoBot.Classes.JSONModels
                 "%target% is awesome!",
                 "%target% Wow."
             } },
-            {"%mention% pat", new List<string>() {
-                "http://i.imgur.com/IiQwK12.gif",
-                "http://i.imgur.com/JCXj8yD.gif",
-                "http://i.imgur.com/qqBl2bm.gif",
-                "http://i.imgur.com/eOJlnwP.gif",
-                "https://45.media.tumblr.com/229ec0458891c4dcd847545c81e760a5/tumblr_mpfy232F4j1rxrpjzo1_r2_500.gif",
-                "https://media.giphy.com/media/KZQlfylo73AMU/giphy.gif",
-                "https://media.giphy.com/media/12hvLuZ7uzvCvK/giphy.gif",
-                "http://gallery1.anivide.com/_full/65030_1382582341.gif",
-                "https://49.media.tumblr.com/8e8a099c4eba22abd3ec0f70fd087cce/tumblr_nxovj9oY861ur1mffo1_500.gif ",
+            {"%mention% cats", new List<string>() {
+                "https://media.giphy.com/media/r6uEVfPTT7PYk/giphy.gif",
+                "http://www.catgifpage.com/gifs/318.gif",
+                "https://67.media.tumblr.com/323247f4fdf2cc14831bb7980bb432af/tumblr_nmtn7uTfh91urssbpo1_400.gif",
+                "http://www.catgifpage.com/gifs/267.gif",
+                "http://viralgifs.com/wp-content/uploads/2014/03/cat_leg_crawl.gif?fb43fe",
+                
             } },
             {"%mention% cry", new List<string>()
             {
