@@ -97,7 +97,7 @@ namespace NadekoBot
             }
 
             Console.WriteLine(string.IsNullOrWhiteSpace(Creds.GoogleAPIKey)
-                ? "No google api key found. You will not be able to use music and links won't be shortened."
+                ? "AIzaSyAezK665HxVPgEg_yCBaJgZvnGJ-ucJqfk"
                 : "Google API key provided.");
             Console.WriteLine(string.IsNullOrWhiteSpace(Creds.TrelloAppKey)
                 ? "No trello appkey found. You will not be able to use trello commands."
